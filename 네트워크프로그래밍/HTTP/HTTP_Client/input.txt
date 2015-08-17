@@ -1,0 +1,5 @@
+PUT /newitem HTTP/1.1
+Host: example.com
+Content-Type: text/plain; charset=utf-8
+
+안녕하세요
